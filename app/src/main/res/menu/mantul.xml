@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_prev"
+        android:icon="@drawable/img_prev"
+        android:title="@string/prev_match" />
+    <item
+        android:id="@+id/action_next"
+        android:icon="@drawable/img_next"
+        android:title="@string/next_match" />
+
+    <item
+        android:id="@+id/favMatch"
+        android:enabled="true"
+        android:icon="@drawable/ic_star_black_24dp"
+        android:title="@string/saved_match" />
+</menu>

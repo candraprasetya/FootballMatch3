@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DicodingFootballBaru</string>
+    <string name="tab_text_1">Prev. Match</string>
+    <string name="tab_text_2">Next Match</string>
+    <string name="tab_text_3">Fav. Match</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_fav">TIDAK ADA FAVORITE</string>
+    <string name="loading">Loading...</string>
+
+    <string name="prev_match">Prev Match</string>
+    <string name="next_match">Next Match</string>
+    <string name="shots">Shots</string>
+    <string name="midlefield">Midlefield</string>
+    <string name="forward">Forward</string>
+    <string name="subtituties">Subtituties</string>
+    <string name="lineups">Lineups</string>
+    <string name="goalkeeper">Goalkeeper</string>
+    <string name="hometeam">homeTeam</string>
+    <string name="awayteam">awayTeam</string>
+    <string name="goals">Goals</string>
+    <string name="versus">VS</string>
+    <string name="defense">Defense</string>
+    <string name="information">Information</string>
+    <string name="saved_match">Saved Match</string>
+    <string name="please_wait">Please Wait...</string>
+</resources>
